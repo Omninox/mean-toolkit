@@ -1,6 +1,6 @@
 # MnToolkit
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3. It is divided into four modules: **codegen**, **components**, **node**, and **services**. The README file in each of these projects contains more information about their purpose. A test application for testing each of these modules is available under `projects/mn-app`.
 
 ## Development server
 
